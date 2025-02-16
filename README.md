@@ -9,7 +9,7 @@
 💼 Currently working as a Software Engineer at Onward Partners.\
 🎓 Apprenticeship as an IT Specialist in Application Development.\
 🚀 Always exploring new technologies to stay ahead in the ever-evolving tech landscape.\
-💡 Great software is more than just code—it’s about problem-solving and creating impact.\
+💡 Great software is more than just code—it’s about problem-solving and creating impact.
 
 #
 
