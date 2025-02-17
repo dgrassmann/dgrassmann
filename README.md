@@ -42,7 +42,7 @@
 #
 
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=dgrassmann&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dgrassmann&theme=radical&hide_border=false)
 
 #
 
